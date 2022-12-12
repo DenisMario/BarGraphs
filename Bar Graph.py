@@ -16,3 +16,5 @@ plt.xlabel('Courses',color='yellow')
 plt.ylabel('Number of students enrolled',color='blue')
 plt.title("Amount of students enrolled in different courses",color='red')
 plt.show()
+
+#Making the bar graph display horizontally can be done by ".barh()"
